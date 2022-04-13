@@ -1,5 +1,6 @@
 **Assumptions Made**
 
+ - A and X are variables
  - Values of A and X are not static and requires user input
  - A and X are positive whole numbers, meaning that the integer data type is used
  - The value of A should be less than the value of X
